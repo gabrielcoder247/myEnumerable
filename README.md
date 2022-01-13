@@ -5,8 +5,8 @@ This project consist of a ruby code to create a enumerable and learn basic ruby 
 ## Built With
 
 - Ruby
-- rspec
--
+- linters
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - `$ cd myenurable`
 - run the command `code .` to open the file in VS Code
 - run the command `irb` in the command prompt
-- Copy code from `class.rb`, `enumerable.rb` and run it in the command prompt
+- Copy code from `class.rb` and run it in the command prompt
 
 ## Author
 
