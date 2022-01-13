@@ -1,6 +1,7 @@
 module Enumerable
   def all?
     each { |n| return false unless yield(n) }
+    true
   end
 
   def any?
