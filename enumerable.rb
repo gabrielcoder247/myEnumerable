@@ -12,6 +12,6 @@ module Enumerable
   def filter
     arr = []
     each { |n| arr.push(n) if yield(n) }
-    return arr
+    arr
   end
 end
